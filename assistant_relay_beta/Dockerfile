@@ -1,4 +1,4 @@
-FROM ducka/assistant-relay:4.0.0b2
+FROM apipa169/assistant-relay:4.0.0b2
 
 ENV LANG C.UTF-8
 ENV databasePath='/data/db.json'
