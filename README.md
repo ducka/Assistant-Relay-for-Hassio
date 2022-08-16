@@ -20,12 +20,12 @@ It also supports the Google Home Broadcast command so you can send audio notific
 
 ## Getting started
 
-To use this add-on you need to have Hass.io running. If you are not using Hass.io you should use the [docker image](https://github.com/Apipa169/Assistant-Relay-Docker) or [install Assistant Rely directly](https://greghesp.github.io/assistant-relay/docs/getting-started/installation) on your system.
+To use this add-on you need to have Hass.io running. If you are not using Hass.io you should use the [docker image](https://github.com/ducka/Assistant-Relay-Docker) or [install Assistant Rely directly](https://greghesp.github.io/assistant-relay/docs/getting-started/installation) on your system.
 
 ### Installation
 
 1. Go to Supervisor in the sidebar and click on Add-on Store
-2. Add https://github.com/Apipa169/Assistant-Relay-for-Hassio under "repositories"
+2. Add https://github.com/ducka/Assistant-Relay-for-Hassio under "repositories"
 2. The add-on Assistant Relay should now show up below. Click on it and click on "Install". This may take a while, depending on your internet and system speed.
 
 ### Configuration
@@ -98,7 +98,7 @@ Don't forget to change the IP address, port and user after you have imported thi
 ```
 
 ## Assistant Relay in Docker without Hass.io
-If you are not running Hass.io you can run Assistant Relay in docker using this image: https://github.com/Apipa169/Assistant-Relay-Docker
+If you are not running Hass.io you can run Assistant Relay in docker using this image: https://github.com/ducka/Assistant-Relay-Docker
 
 ## More documentation
 More documentation is available at https://greghesp.github.io/assistant-relay/ 
